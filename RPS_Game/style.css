@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(109, 109, 201);
+    text-align: center;
+    top: 0;
+    bottom: 0;
+}
+
+button{
+    background-color: brown;
+    text-align: center;
+    text-size-adjust: 1000px;
+}
